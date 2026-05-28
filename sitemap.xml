@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://alejandrozeind-art.github.io/</loc>
+    <lastmod>2026-05-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://alejandrozeind-art.github.io/img/oleo-veladura-01-jose-alejandro-zeind-reyes.jpg</image:loc>
+      <image:title>Veladura veneciana al óleo — José Alejandro Zeind Reyes</image:title>
+      <image:caption>Veladura translúcida sobre imprimatura, técnica veneciana al óleo — José Alejandro Zeind Reyes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://alejandrozeind-art.github.io/img/oleo-detalle-02-jose-alejandro-zeind-reyes.jpg</image:loc>
+      <image:title>Detalle de carnación al óleo — José Alejandro Zeind Reyes</image:title>
+      <image:caption>Detalle de carnación al óleo veneciano — José Alejandro Zeind Reyes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://alejandrozeind-art.github.io/img/oleo-detalle-03-jose-alejandro-zeind-reyes.jpg</image:loc>
+      <image:title>Detalle de sombra al óleo — José Alejandro Zeind Reyes</image:title>
+      <image:caption>Detalle de sombra profunda en óleo por capas — José Alejandro Zeind Reyes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://alejandrozeind-art.github.io/img/oleo-pigmentos-04-jose-alejandro-zeind-reyes.jpg</image:loc>
+      <image:title>Pigmentos venecianos al óleo — José Alejandro Zeind Reyes</image:title>
+      <image:caption>Pigmentos venecianos para óleo: tierras, ocres y ultramarino — José Alejandro Zeind Reyes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://alejandrozeind-art.github.io/img/oleo-lienzo-05-jose-alejandro-zeind-reyes.jpg</image:loc>
+      <image:title>Lienzo preparado para óleo — José Alejandro Zeind Reyes</image:title>
+      <image:caption>Trama de lienzo veneciano preparado con cola e imprimatura para óleo — José Alejandro Zeind Reyes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://alejandrozeind-art.github.io/img/oleo-barniz-06-jose-alejandro-zeind-reyes.jpg</image:loc>
+      <image:title>Barniz final sobre óleo — José Alejandro Zeind Reyes</image:title>
+      <image:caption>Película de barniz que unifica el brillo de un óleo veneciano — José Alejandro Zeind Reyes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://alejandrozeind-art.github.io/img/oleo-laguna-luz-07-jose-alejandro-zeind-reyes.jpg</image:loc>
+      <image:title>Luz de la laguna veneciana — José Alejandro Zeind Reyes</image:title>
+      <image:caption>Luz reflejada de la laguna veneciana, atmósfera al óleo por veladuras — José Alejandro Zeind Reyes</image:caption>
+    </image:image>
+  </url>
+</urlset>
